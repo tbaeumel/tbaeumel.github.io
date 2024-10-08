@@ -3,7 +3,7 @@ title: "Software Project: Trustworthy NLP"
 collection: teaching
 type: "Software Project"
 permalink: /teaching/SS2025_Trustworthy_NLP
-venue: "Saarland University"
+venue: "Saarland University, Summer Semester 2025"
 date: 2025-04-01
 location: "Saarbruecken, Germany"
 ---

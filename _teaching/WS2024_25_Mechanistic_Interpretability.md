@@ -3,7 +3,7 @@ title: "Software Project: Recent Advances in Mechanistic Interpretability"
 collection: teaching
 type: "Software Project"
 permalink: /teaching/WS2024_25_Mechanistic_Interpretability
-venue: "Saarland University"
+venue: "Saarland University, Winter Semester 2024/25"
 date: 2025-02-01
 location: "Saarbruecken, Germany"
 ---

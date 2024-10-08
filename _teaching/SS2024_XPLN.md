@@ -3,7 +3,7 @@ title: "Seminar XPLN: Exploring Explainability in NLP"
 collection: teaching
 type: "Master Seminar"
 permalink: /teaching/SS2024_XPLN
-venue: "Saarland University"
+venue: "Saarland University, Summer Semester 2024"
 date: 2024-04-01
 location: "Saarbruecken, Germany"
 ---
