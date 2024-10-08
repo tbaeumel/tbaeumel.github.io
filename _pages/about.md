@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year PhD student and researcher in the Multilinguality and Language Technology lab at the German Research Center for Artificial Intelligence. 
+I am a second year PhD student and researcher in the Multilinguality and Language Technology lab at the German Research Center for Artificial Intelligence, working under the supervision of Josef van Genabith. 
 My research is in the field of explainable artificial intelligence (XAI), where I work on interpreting the inner workings of large-scale pre-trained language models, as well as understanding their limitations.
 My background is in computational linguistics, computer science and cognitive science.
 
