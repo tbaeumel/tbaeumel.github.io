@@ -4,7 +4,7 @@ collection: teaching
 type: "Software Project"
 permalink: /teaching/SS2025_SP_Trustworthy
 venue: "Saarland University"
-date: SS 2025
+date: 2025-04-01
 location: "Saarbruecken, Germany"
 ---
 

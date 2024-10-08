@@ -4,7 +4,7 @@ collection: teaching
 type: "Master Seminar"
 permalink: /teaching/2024_XPLN
 venue: "Saarland University"
-date: 2024
+date: 2024-04-01
 location: "Saarbruecken, Germany"
 ---
 
