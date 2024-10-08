@@ -2,7 +2,7 @@
 title: "Software Project: Recent Advances in Mechanistic Interpretability"
 collection: teaching
 type: "Software Project"
-permalink: /teaching/2024_2025_MI
+permalink: /teaching/WS2024_25_Mechanistic_Interpretability
 venue: "Saarland University"
 date: 2025-02-01
 location: "Saarbruecken, Germany"
