@@ -14,7 +14,7 @@ My background is in computational linguistics, computer science and cognitive sc
 
 Thesis topics 
 ------
-*last updated October 2024*
+*last updated: October 2024*
 
 
 We are always looking for talented master students of Language Science and Technology or Computer Science, who want to work on a thesis in the area of interpretable, robust, or trustworty LLMs. Feel free to approach me with your own research questions or let me know if you are interested in any of the topics in the list below and want to talk about details.
