@@ -8,7 +8,9 @@ date: 2024-04-01
 location: "Saarbruecken, Germany"
 ---
 
-Seminar taught with Dr. Simon Ostermann. Please find the course page on his personal website: https://simonost.github.io/home/teaching/xpln-24.html.
+Together with Simon Ostermann we have offered a Seminar on Explainable and Interpretable AI.
+
+Please find the course page on his personal website: https://simonost.github.io/home/teaching/xpln-24.html.
 
 Seminar Content
 
