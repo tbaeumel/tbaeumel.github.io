@@ -26,6 +26,7 @@ Specific ideas:
 - **How robust are LLMs to editing?**
 - **Encoding of (different kinds of) concepts in LLM activation spaces**
 - **Evaluation of activation spaces in response to different fine-tuning techniques (full, adapters, soft prompts)**
+- **Comparison of parameter efficiency of fine-tuning techniques (full, adapters, soft prompts)**
 
 Topics that I am very interested in, but where we would need to find a research question together:
 - **Any topic on (arithmetic) reasoning skills of LLMs**
