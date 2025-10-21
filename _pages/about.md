@@ -15,7 +15,7 @@ My background is in computational linguistics, computer science and cognitive sc
 Thesis topics 
 ------
 
-I am always looking for talented master students of Language Science and Technology or Computer Science, who want to work on a thesis in the area of interpretable, robust, or trustworty LLMs. 
+I am always looking for talented Master students of Language Science and Technology or Computer Science, who want to work on a thesis in the area of interpretable, robust, or trustworty NLP. 
 
 If you are interested, feel free to reach out with your own research question related to one of the topics below.
 
@@ -24,9 +24,7 @@ When contacting me, please include:
 - Your Transcript of Records
 - A short research question pitch (possibly accompanied with relevant literature that your idea builds on)
 
-
-
 Current Research Interests: 
-- **Mechanistic Interpretability**: Understanding how LLMs work and using interpretability insights to improve them
+- **(Actionable) Mechanistic Interpretability**: Understanding how LLMs work and using interpretability insights to improve them
 - **Model Editing and Machine Unlearning:** Methods for editing or forgetting knowledge in LLMs
 - **Reasoning in LLMs:** Exploring arithmetic, chain-of-thought (CoT), or other reasoning processes
