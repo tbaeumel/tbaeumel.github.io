@@ -9,16 +9,24 @@ redirect_from:
 ---
 
 I am a 3rd year PhD student and researcher in the Multilinguality and Language Technology lab at the German Research Center for Artificial Intelligence, working under the supervision of Josef van Genabith and Simon Ostermann. 
-My research is in the field of explainable artificial intelligence (XAI), where I work on interpreting the inner workings of large-scale pre-trained language models, as well as understanding and overcoming their limitations.
+My research is in the field of interpretable artificial intelligence, where I work on understanding the inner workings of large-scale pre-trained language models, as well as understanding and overcoming their limitations.
 My background is in computational linguistics, computer science and cognitive science.
 
 Thesis topics 
 ------
 
 I am always looking for talented master students of Language Science and Technology or Computer Science, who want to work on a thesis in the area of interpretable, robust, or trustworty LLMs. 
-Feel free to approach me with your own research questions or let me know if you are interested in any of the topics in the list below and want to talk about details.
 
-Topics that I am currently interested in:
-- **Mechanistic Interpretability - Understanding LLMs and using insights from interpretability to improve LLMs**
-- **Editing and Forgetting in LLMs**
-- **Arithmetic, CoT, or other Reasoning in LLMs**
+If you are interested, feel free to reach out with your own research question related to one of the topics below.
+
+When contacting me, please include:
+- Your CV
+- Your Transcript of Records
+- A short research question pitch (possibly accompanied with relevant literature that your idea builds on)
+
+
+
+Current Research Interests: 
+- **Mechanistic Interpretability**: Understanding how LLMs work and using interpretability insights to improve them
+- **Model Editing and Machine Unlearning:** Methods for editing or forgetting knowledge in LLMs
+- **Reasoning in LLMs:** Exploring arithmetic, chain-of-thought (CoT), or other reasoning processes
