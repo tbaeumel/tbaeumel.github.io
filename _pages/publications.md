@@ -16,7 +16,7 @@ You can find a complete list of my articles on <u><a href="https://scholar.googl
     <div class="publication-item" style="margin-bottom: 1.5em;">
       <strong>{{ pub.title }}</strong><br>
     {% if pub.authors %}
-      {% assign my_name = "Your Name" %}
+      {% assign my_name = "Tanja Baeumel" %}
       {% for author in pub.authors %}
         {% if author == my_name %}
           <strong>{{ author }}</strong>{% if forloop.last == false %}, {% endif %}
