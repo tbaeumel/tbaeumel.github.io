@@ -15,6 +15,17 @@ You can find a complete list of my articles on <u><a href="https://scholar.googl
   {% for pub in pubs %}
     <div class="publication-item" style="margin-bottom: 1.5em;">
       <strong>{{ pub.title }}</strong><br>
+    {% if pub.authors %}
+      {% assign my_name = "Your Name" %}
+      {% for author in pub.authors %}
+        {% if author == my_name %}
+          <strong>{{ author }}</strong>{% if forloop.last == false %}, {% endif %}
+        {% else %}
+          {{ author }}{% if forloop.last == false %}, {% endif %}
+        {% endif %}
+      {% endfor %}
+      <br>
+    {% endif %}
       <em>{{ pub.venue }}</em> ({{ pub.date | date: "%Y" }})<br>
       {% if pub.paperurl %}
         <a href="{{ pub.paperurl }}" target="_blank">View Paper</a>
