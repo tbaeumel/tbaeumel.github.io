@@ -15,7 +15,10 @@ My background is in computational linguistics, computer science and cognitive sc
 Thesis topics 
 ------
 
-I am always looking for talented Master students of Language Science and Technology or Computer Science, who want to work on a thesis in the area of interpretable, robust, or trustworty NLP. 
+**Currently actively looking for a student interested in pursuing their thesis in comparing the effect of different model adaptation methods on model internal activations.**
+<font size=1>*as of December 2025*</font>
+
+Besides this, I am always looking for talented Master students of Language Science and Technology or Computer Science, who want to work on a thesis in the area of interpretable, robust, or trustworty NLP. 
 
 If you are interested, feel free to reach out with your own research question related to one of the topics below.
 
