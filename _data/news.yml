@@ -1,0 +1,14 @@
+# News items shown on the start page (newest first, max. 6).
+# Add a new entry with a date (YYYY-MM-DD) and a text. Markdown links work: [text](url)
+
+- date: 2026-09-03
+  text: "Our paper [Compositional Multilingual and Behavioral Attribute Steering](https://arxiv.org/abs/2609.08410) was accepted to BlackboxNLP!"
+
+- date: 2026-08-21
+  text: "Two papers accepted to EMNLP 2026! [When Tokenization is Secretly Output Supervision](https://arxiv.org/abs/2609.01386) (Main) and [Separating Syntax from Language: A Mechanistic Account of Translation in Multilingual LLMs](https://arxiv.org/abs/2609.01356) (Findings). See you in Budapest!"
+
+- date: 2025-10-25
+  text: "Two papers accepted to IJCNLP-AACL 2025! [Modular Arithmetic: Language Models Solve Math Digit by Digit](https://arxiv.org/abs/2508.02513) (Findings) and [Language Arithmetics: Towards Systematic Language Neuron Identification and Manipulation](https://arxiv.org/abs/2507.22608) (Main)"
+
+- date: 2025-09-19
+  text: "Our paper [The Lookahead Limitation: Why Multi-Operand Addition is Hard for LLMs](https://arxiv.org/abs/2502.19981) was accepted to BlackboxNLP!"
