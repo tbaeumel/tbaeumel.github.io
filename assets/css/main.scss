@@ -34,6 +34,8 @@
 @import "archive";
 @import "sidebar";
 
+@import "custom"; // own design tweaks, see _sass/_custom.scss
+
 @import "vendor/font-awesome/fontawesome";
 @import "vendor/font-awesome/solid";
 @import "vendor/font-awesome/brands";

@@ -1,0 +1,221 @@
+/* ==========================================================================
+   CUSTOM LOOK
+   Small overrides on top of the theme: typography, accent color,
+   avatar shape, section headings, news timeline.
+   To change the accent color, edit $accent below.
+   ========================================================================== */
+
+$accent      : #2b5d8a;                  // muted deep blue
+$accent-soft : mix(#fff, $accent, 90%);  // pale tint of the accent
+$ink         : #1f2933;                  // main text
+$muted       : #5f6b76;                  // secondary text
+$custom-font : "Inter", $sans-serif;
+
+/* Typography
+   ========================================================================== */
+
+body {
+  font-family: $custom-font;
+  color: $ink;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, h5, h6,
+.page__title,
+.author__name,
+.masthead__inner-wrap {
+  font-family: $custom-font;
+}
+
+.page__content {
+  line-height: 1.7;
+
+  p, li {
+    color: $ink;
+  }
+
+  a {
+    color: $accent;
+    text-decoration: none;
+    border-bottom: 1px solid rgba($accent, 0.25);
+    transition: border-color 0.2s ease, color 0.2s ease;
+
+    &:hover {
+      color: darken($accent, 10%);
+      border-bottom-color: $accent;
+    }
+  }
+
+  ul li::marker {
+    color: $accent;
+  }
+}
+
+/* Masthead
+   ========================================================================== */
+
+.masthead {
+  border-bottom: none;
+  box-shadow: 0 1px 0 rgba(31, 41, 51, 0.06);
+}
+
+.masthead__menu-item a {
+  position: relative;
+  color: $muted;
+  font-weight: 500;
+  transition: color 0.2s ease;
+
+  &::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: -4px;
+    height: 2px;
+    background: $accent;
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform 0.25s ease;
+  }
+
+  &:hover {
+    color: $accent;
+
+    &::after {
+      transform: scaleX(1);
+    }
+  }
+}
+
+.masthead__menu-item--lg a {
+  color: $ink;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+
+  &::after {
+    display: none;
+  }
+}
+
+/* Sidebar: photo and profile
+   ========================================================================== */
+
+.author__avatar img {
+  border-radius: 6px;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  object-position: center top;
+
+  @include breakpoint($large) {
+    padding: 0;
+    border: none;
+    margin-bottom: 0.75em;
+    border-radius: 14px;
+    box-shadow: 0 8px 24px rgba(31, 41, 51, 0.12);
+  }
+}
+
+.author__name {
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  color: $ink;
+}
+
+.author__bio {
+  color: $muted;
+  line-height: 1.5;
+}
+
+.author__urls {
+  a {
+    color: $muted;
+    transition: color 0.2s ease;
+
+    &:hover {
+      color: $accent;
+      text-decoration: none;
+    }
+  }
+}
+
+/* Page title and section headings
+   ========================================================================== */
+
+.page__title {
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  color: $ink;
+
+  &::after {
+    content: "";
+    display: block;
+    width: 48px;
+    height: 3px;
+    margin-top: 0.5em;
+    border-radius: 2px;
+    background: $accent;
+  }
+}
+
+.page__content h2 {
+  display: flex;
+  align-items: center;
+  gap: 0.75em;
+  margin-top: 2em;
+  padding-bottom: 0;
+  border-bottom: none;
+  font-size: 0.85em;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: $accent;
+
+  &::after {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: $border-color;
+  }
+}
+
+/* News timeline
+   ========================================================================== */
+
+.page__content ul.news {
+  list-style: none;
+  margin: 0 0 1.5em;
+  padding-left: 0;
+  border-left: 2px solid $accent-soft;
+
+  li {
+    position: relative;
+    padding-left: 1.25em;
+    margin-bottom: 0.9em;
+
+    &::before {
+      content: "";
+      position: absolute;
+      left: -6px;
+      top: 0.55em;
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background: $accent;
+      box-shadow: 0 0 0 3px #fff;
+    }
+
+    strong {
+      display: inline-block;
+      margin-right: 0.25em;
+      padding: 0.1em 0.6em;
+      border-radius: 999px;
+      background: $accent-soft;
+      color: $accent;
+      font-size: 0.75em;
+      font-weight: 600;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      vertical-align: 0.1em;
+    }
+  }
+}
