@@ -12,7 +12,7 @@ I am a fourth-year PhD student in the Multilinguality and Language Technology la
 
 In my PhD thesis, I study what happens inside large language models when they solve challenging tasks. LLMs often look impressive, but their performance frequently rests on simple heuristics that make them brittle. Using interpretability methods, I trace the mechanisms behind these shortcuts to understand why they form and how to overcome them.
 
-Beyond my thesis, I am broadly interested in how language models work on the inside:
+Beyond my thesis, I am broadly interested in understanding and controlling what happens inside language models:
 
 - **Mechanistic interpretability:** reverse-engineering the internal mechanisms behind model behavior, and using these insights to improve models
 - **Tokenization:** how the choice of tokens shapes what a model has to learn and how it represents it
