@@ -34,7 +34,7 @@ News
 {% endfor %}
 </ul>
 
-Thesis topics 
+Master Theses
 ------
 
 I am always looking for talented Master students of Language Science and Technology or Computer Science, who want to work on a thesis in the area of interpretable, robust, or trustworty NLP. 
