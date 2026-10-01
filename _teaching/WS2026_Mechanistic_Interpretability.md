@@ -4,7 +4,6 @@ collection: teaching
 type: "Software Project"
 permalink: /teaching/WS2026_Mechanistic_Interpretability
 venue: "Saarland University, Winter Semester 2026/27"
-date: 2026-10-01
 location: "Saarbruecken, Germany"
 ---
 
