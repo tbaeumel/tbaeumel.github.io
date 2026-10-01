@@ -2,9 +2,9 @@
 title: "Software Project: Implementing Mechanistic Interpretability in NLP"
 collection: teaching
 type: "Software Project"
-permalink: /teaching/WS2025_25_Mechanistic_Interpretability
-venue: "Saarland University, Winter Semester 2025/26"
-date: 2025-02-01
+permalink: /teaching/WS2026_Mechanistic_Interpretability
+venue: "Saarland University, Winter Semester 2026/27"
+date: 2026-10-01
 location: "Saarbruecken, Germany"
 ---
 
