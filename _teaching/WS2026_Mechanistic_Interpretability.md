@@ -4,6 +4,7 @@ collection: teaching
 type: "Software Project"
 permalink: /teaching/WS2026_Mechanistic_Interpretability
 venue: "Saarland University, Winter Semester 2026/27"
+date: 2026-10-01
 location: "Saarbruecken, Germany"
 ---
 
@@ -23,36 +24,34 @@ B.Sc. students will only be admitted to the course with sufficient prior experti
 <h2>Course Content</h2>
 This course will consist of two parts: 
 
-In the first part, we will focus on understanding and using the most important methods of mechanistic interpretability (MI) research. Every week will be dedicated to a method, with a mini-lecture, a hands-on part, and a small homework. 
+In the first part, we will focus on understanding and using the most important methods of mechanistic interpretability. Every week will be dedicated to a method, with a mini-lecture, a hands-on part, and a small homework. 
 
-In the second part, students will independently work on a small MI project, with weekly optional office hours, an intermediate presentation, and a final presentation. At the end of the semester, students submit a short report and a GitHub repo.
+In the second part, students will work on a project in small groups to get hands-on experience in conducting independent research in mechanistic interpretability. There will be weekly office hours and a final presentation. At the end of the semester, students submit a short report and a GitHub repo.
 
 <h3>Preliminary Schedule</h3>
 
 <table border="1">
   <tr><th>Date</th><th>Content</th></tr>
-  <tr><td>20.10.2025</td><td>Kick-off and Introductory Lecture on Mechanistic Interpretability</td></tr>
-  <tr><td>27.10.2025</td><td>Topic 1 - Feature Visualization</td></tr>
-  <tr><td>03.11.2025</td><td>No Meeting</td></tr>
-  <tr><td>10.11.2025</td><td>No Meeting</td></tr>
-  <tr><td>17.11.2025</td><td>Topic 2 - Logic Lens</td></tr>
-  <tr><td>24.11.2025</td><td>Topic 3 - Activation patching (MLP layers)</td></tr>
-  <tr><td>01.12.2025</td><td>Topic 4 - SAEs and Probing (attention layers)</td></tr>
-  <tr><td>08.12.2025</td><td>Topic 5 - Induction Heads and Induction Circuits</td></tr>
-  <tr><td>15.12.2025</td><td>Topic 6 - Path Patching </td></tr>
-  <tr><td>22.12.2025</td><td>No Meeting</td></tr>
-  <tr><td>29.12.2025</td><td>No Meeting</td></tr>
-  <tr><td>05.01.2026</td><td>Final Project Development</td></tr>
-  <tr><td>12.01.2026</td><td>Final Project Development</td></tr>
-  <tr><td>19.01.2026</td><td>Office Hour</td></tr>
-  <tr><td>26.01.2026</td><td>Office Hour</td></tr>
-  <tr><td>02.02.2026</td><td>Office Hour</td></tr>
-  <tr><td>09.02.2026</td><td>Intermediate Presentations</td></tr>
-  <tr><td>16.02.2026</td><td>Office Hour</td></tr>
-  <tr><td>23.02.2026</td><td>Office Hour</td></tr>
-  <tr><td>02.03.2026</td><td>Office Hour</td></tr>
-  <tr><td>09.03.2026</td><td>Office Hour</td></tr>
-  <tr><td>16.03.2026</td><td>Final Presentations</td></tr>
+  <tr><td>21.10.2025</td><td>Kick-off and Introductory Lecture on Mechanistic Interpretability</td></tr>
+  <tr><td>28.10.2025</td><td>No Meeting</td></tr>
+  <tr><td>03.11.2025</td><td>Alternative Meeting Slot, Tuesday, 16:15, Topic 1 - tbd</td></tr>
+  <tr><td>11.11.2025</td><td>Topic 2 - tbd</td></tr>
+  <tr><td>18.11.2025</td><td>Topic 3 - tbd</td></tr>
+  <tr><td>25.11.2025</td><td>Topic 4 - tbd</td></tr>
+  <tr><td>02.12.2025</td><td>Topic 5 - tbd</td></tr>
+  <tr><td>09.12.2025</td><td>Topic 6 - tbd</td></tr>
+  <tr><td>16.12.2025</td><td>Topic 7 - tbd</td></tr>
+  <tr><td>23.12.2025</td><td>No Meeting</td></tr>
+  <tr><td>30.12.2025</td><td>No Meeting</td></tr>
+  <tr><td>06.01.2026</td><td>Final Project Development</td></tr>
+  <tr><td>13.01.2026</td><td>Final Project Development</td></tr>
+  <tr><td>20.01.2026</td><td>Office Hour</td></tr>
+  <tr><td>27.01.2026</td><td>Office Hour</td></tr>
+  <tr><td>03.02.2026</td><td>Office Hour</td></tr>
+  <tr><td>10.02.2026</td><td>Office Hour</td></tr>
+  <tr><td>17.02.2026</td><td>Office Hour</td></tr>
+  <tr><td>24.02.2026</td><td>Office Hour</td></tr>
+  <tr><td>03.03.2026</td><td>Final Presentations</td></tr>
   <tr><td>31.03.2026</td><td>Deadline: Report and Code</td></tr>
 </table>
 
