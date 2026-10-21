@@ -34,13 +34,13 @@ In the second part, students will work on a project in small groups to get hands
   <tr><th>Date</th><th>Content</th></tr>
   <tr><td>21.10.2026</td><td>Kick-off and Introductory Lecture on Mechanistic Interpretability</td></tr>
   <tr><td>28.10.2026</td><td>No Meeting</td></tr>
-  <tr><td>03.11.2026</td><td>Alternative Meeting Slot, Tuesday, 16:15, Topic 1 - tbd</td></tr>
-  <tr><td>11.11.2026</td><td>Topic 2 - tbd</td></tr>
-  <tr><td>18.11.2026</td><td>Topic 3 - tbd</td></tr>
-  <tr><td>25.11.2026</td><td>Topic 4 - tbd</td></tr>
-  <tr><td>02.12.2026</td><td>Topic 5 - tbd</td></tr>
-  <tr><td>09.12.2026</td><td>Topic 6 - tbd</td></tr>
-  <tr><td>16.12.2026</td><td>Topic 7 - tbd</td></tr>
+  <tr><td>03.11.2026</td><td>Topic 1 - Transformer Deep Dive: Information Flow, Residual Stream, Representations, Attention, MLP, What we know from MI about how things work</td></tr>
+  <tr><td>11.11.2026</td><td>Topic 2 - Logit Lens, Intermediate Representations</td></tr>
+  <tr><td>18.11.2026</td><td>Topic 3 - Activation Steering</td></tr>
+  <tr><td>25.11.2026</td><td>Topic 4 - Causal Tracing, Activation Patching</td></tr>
+  <tr><td>02.12.2026</td><td>Topic 5 - Probing</td></tr>
+  <tr><td>09.12.2026</td><td>Topic 6 - Language Forcing, Language neurons</td></tr>
+  <tr><td>16.12.2026</td><td>Topic 7 - Circuits</td></tr>
   <tr><td>23.12.2026</td><td>No Meeting</td></tr>
   <tr><td>30.12.2026</td><td>No Meeting</td></tr>
   <tr><td>06.01.2027</td><td>Final Project Development</td></tr>
