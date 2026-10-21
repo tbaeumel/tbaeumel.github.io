@@ -50,8 +50,7 @@ In the second part, students will work on a project in small groups to get hands
   <tr><td>03.02.2027</td><td>Office Hour</td></tr>
   <tr><td>10.02.2027</td><td>Office Hour</td></tr>
   <tr><td>17.02.2027</td><td>Office Hour</td></tr>
-  <tr><td>24.02.2027</td><td>Office Hour</td></tr>
-  <tr><td>03.03.2027</td><td>Final Presentations</td></tr>
+  <tr><td>24.02.2027</td><td>Final Presentations</td></tr>
   <tr><td>31.03.2027</td><td>Deadline: Report and Code</td></tr>
 </table>
 
