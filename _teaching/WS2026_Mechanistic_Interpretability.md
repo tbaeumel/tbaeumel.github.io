@@ -38,13 +38,13 @@ In the second part, students will work on a project in small groups to get hands
   <tr><td>11.11.2026</td><td>Topic 2 - Logit Lens, Intermediate Representations</td></tr>
   <tr><td>18.11.2026</td><td>Topic 3 - Activation Steering</td></tr>
   <tr><td>25.11.2026</td><td>Topic 4 - Causal Tracing, Activation Patching</td></tr>
-  <tr><td>02.12.2026</td><td>Topic 5 - Language Forcing, Language neurons</td></tr>
+  <tr><td>02.12.2026</td><td>Topic 5 - Language Forcing, Language neurons <br> + Choose Project Type</td></tr>
   <tr><td>09.12.2026</td><td>Topic 6 - Probing</td></tr>
   <tr><td>16.12.2026</td><td>Topic 7 - Circuits</td></tr>
   <tr><td>23.12.2026</td><td>No Meeting</td></tr>
   <tr><td>30.12.2026</td><td>No Meeting</td></tr>
-  <tr><td>06.01.2027</td><td>Final Project Development</td></tr>
-  <tr><td>13.01.2027</td><td>Final Project Development</td></tr>
+  <tr><td>06.01.2027</td><td>Project Pitches</td></tr>
+  <tr><td>13.01.2027</td><td>Office Hour</td></tr>
   <tr><td>20.01.2027</td><td>Office Hour</td></tr>
   <tr><td>27.01.2027</td><td>Office Hour</td></tr>
   <tr><td>03.02.2027</td><td>Office Hour</td></tr>
