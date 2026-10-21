@@ -88,6 +88,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=de&user=y4OhikAAAAAJ"
   email            :
+  email_display    : "tanja (dot) baeumel (at) dfki (dot) de"  # shown as plain text (no mailto link) to keep it away from scrapers
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

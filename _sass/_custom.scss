@@ -138,6 +138,20 @@ h1, h2, h3, h4, h5, h6,
   }
 }
 
+/* Human-readable email in the sidebar: allow it to wrap instead of
+   overflowing (the theme sets nowrap on these list items) */
+.author__urls li.author__email {
+  display: flex;
+  align-items: baseline;
+  gap: 0.35em;
+  white-space: normal;
+  color: $muted;
+
+  i {
+    flex: none;
+  }
+}
+
 /* Page title and section headings
    ========================================================================== */
 
